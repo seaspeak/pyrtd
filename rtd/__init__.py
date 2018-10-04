@@ -1,1 +1,1 @@
-from client import RTDClient
+from .client import RTDClient
